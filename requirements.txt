@@ -1,6 +1,5 @@
 streamlit==1.26.0
 pillow==9.4.0
-python re (regular expressions) version==2.2.1
 nltk==3.8.1
 spacy==3.6.1
 scikit-learn==1.2.2
